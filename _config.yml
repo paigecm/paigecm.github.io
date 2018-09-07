@@ -1,4 +1,4 @@
 name: Paige Morgan
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: minima
 permalink: /blog/:year/:month/:day/:title
